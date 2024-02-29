@@ -1,4 +1,3 @@
 # minicurso
 qualquer
-fazendo o teste do curso
-oi
+fazendo o teste oi
